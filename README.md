@@ -1,9 +1,9 @@
-## Oi, meu nome é Amanda Bottacini!
-Estudante de Ciência de Dados na EBAC e estudando Phyton nas horas vagas.
+## Hi there, my name is Amanda Bottacini!
+Data Science student at EBAC and studying Python in my spare time
 
-- 👩🏼‍💻 Atualmente Analista de Planejamento Financeiro de Projetos
-- 📚 Buscando aprimoramento para uma transição profissional
-- 💻 Atualmente mais focada em:
+- 👩🏼‍💻 Currently a Project Financial Planning Analyst
+- 📚 Seeking to enhance my skills for a professional transition
+- 💻 Currently more focused on:
 
 <div style="display: inline">
  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
@@ -13,12 +13,12 @@ Estudante de Ciência de Dados na EBAC e estudando Phyton nas horas vagas.
 
 ##
 
-#### Você também me encontra em:
+#### You can also find me on:
 
-<a href="https://www.linkedin.com/in/amanda-bottacini-02887b119/">
+&nbsp;<a href="https://www.linkedin.com/in/amanda-bottacini-02887b119/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
-</a>
-<a href="https://www.instagram.com/amandabottacini/">
+</a>&nbsp;
+&nbsp;<a href="https://www.instagram.com/amandabottacini/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /> 
-</a>
+</a>&nbsp;
 
