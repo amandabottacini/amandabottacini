@@ -3,7 +3,7 @@ Data Science student at EBAC and studying Python in my spare time
 
 - 👩🏼‍💻 Currently a Project Financial Planning Analyst
 - 📚 Seeking to enhance my skills for a professional transition
-- 💻 Currently more focused on:
+- 💻 Main skills:
 
 <div style="display: inline">
  &nbsp;&nbsp;<img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;&nbsp;
